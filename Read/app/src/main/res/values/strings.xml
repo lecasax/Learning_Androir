@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exemplo treina web</string>
+    <string name="hello_world">This is my first fragment!</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_text"> This is my resource text in the first Activity </string>
+    <string name="aluno"> Leandro Silva </string>
+    <string name="curso">Android Basico</string>
+    <string name="msg">Digite seu nome abaixo</string>
+    <string name="texto_nome"></string>
+    <string name="botao_proximo">Próxima Tela</string>
+    <string name="botao_ok">OK</string>
+    <string name="resposta">Resposta:</string>
+</resources>
